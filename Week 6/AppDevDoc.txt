@@ -1,0 +1,163 @@
+# Week 6 App Development Document
+
+## Project / Team
+
+Project name:
+BeatBridge
+
+Student name(s):
+Sanya Bhadri
+
+Team strategy:
+Individual project.
+
+---
+
+## 0. Genre
+
+Genre:
+Music
+
+Explain why this genre fits your app idea:
+Music is something people enjoy every day, but many users struggle to discover new artists that match their 
+interests. This app focuses on helping users explore music based on their mood and favorite genres while giving 
+independent artists more exposure.
+
+---
+
+## 1. Backstory
+
+What happened before the app exists?
+Many music streaming apps mainly recommend popular artists, making it difficult for users to discover smaller 
+musicians. Independent artists also have a hard time reaching new audiences.
+
+Who lives or works in this world?
+Music listeners, independent artists, playlist creators, and music fans who enjoy discovering new songs.
+
+What pressure, problem, confusion, or need exists?
+Users feel overwhelmed by the huge number of songs available and often receive repetitive recommendations. 
+Independent artists struggle to gain visibility without large marketing budgets.
+
+---
+
+## 2. Story / User Need
+
+Who is the user?
+A college student or music fan who enjoys listening to music every day and wants to find new artists.
+
+What does the user need?
+A simple way to discover music based on mood, favorite genres, and personal interests.
+
+What problem are they trying to solve?
+They are tired of hearing the same recommendations and want to discover new artists more easily.
+
+Why does this matter to them?
+Finding new music keeps listening exciting and helps users build playlists that match their personality and activities.
+
+---
+
+## 3. Product Definition
+
+What are you building inside the story?
+A music discovery and playlist-sharing app called BeatBridge.
+
+What will the app help the user do?
+- Discover new music based on mood.
+- Save favorite songs.
+- Create playlists.
+- Follow independent artists.
+- Share playlists with friends.
+
+What is the smallest useful version of this app?
+
+A basic app where users can create an account, choose favorite genres, receive music recommendations, 
+and save songs into playlists.
+
+---
+
+## 4. Variables
+
+| Variable Name | Data Type | What It Stores | Example Value |
+| --- | --- | --- | --- |
+| username | String | User's display name | Alex |
+| favoriteGenre | String | User's favorite music genre | Hip-Hop |
+| mood | String | Current listening mood | Relaxed |
+| playlistCount | Integer | Number of playlists created | 4 |
+| savedSongs | Integer | Number of saved songs | 58 |
+| isLoggedIn | Boolean | Whether the user is logged in | True |
+
+---
+
+## 5. Functions and Procedures
+
+| Function / Procedure | Purpose | Input | Output or Result |
+| --- | --- | --- | --- |
+| CreateAccount | Creates a new user account | Username, email, password | New account created |
+| RecommendSongs | Suggests music based on mood and genre | Mood, favorite genre | List of recommended songs |
+| CreatePlaylist | Makes a new playlist | Playlist name | Playlist saved |
+| SaveSong | Adds a song to favorites | Song ID | Song saved |
+| SearchMusic | Searches for songs or artists | Search text | Matching results |
+
+---
+
+## 6. Questions and Answers
+
+Question:
+How will users receive music recommendations?
+
+Answer or plan:
+Recommendations will be based on the user's selected mood and favorite music genres.
+
+Question:
+How will users organize their favorite songs?
+
+Answer or plan:
+Users can create multiple playlists and save songs into each playlist.
+
+Question:
+How will users find independent artists?
+
+Answer or plan:
+The app will include a search feature and a recommended artists section that highlights smaller musicians.
+
+---
+
+## 7. Execution Strategy
+
+What will you build first?
+First, I will create the login page, user profile, and music recommendation screen.
+
+How will you test it?
+I will test user login, selecting favorite genres, receiving recommendations, and creating playlists to make sure each feature works correctly.
+
+What screenshots will prove it works?
+- Login screen
+- User profile
+- Music recommendation page
+- Playlist creation page
+- Saved playlist with songs
+
+What will you refactor or clean up if you have time?
+I will improve the user interface, organize the code into reusable components, and make the recommendation system more accurate.
+
+---
+
+## 8. Git Repository
+
+Repository link:
+
+https://github.com/sanyabhadri/Week6-Folder-Maker-App.git
+
+What files should the instructor grade?
+
+- App Development Documentation
+- VB.NET project
+- README.txt
+- Git Repository Link
+- Discord Post
+- My accessible submission link.
+
+What files should the instructor ignore?
+- bin
+- obj folders
+- Any files not related to the project
