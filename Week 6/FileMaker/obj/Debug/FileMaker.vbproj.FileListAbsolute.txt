@@ -1,0 +1,11 @@
+C:\Users\sanya\OneDrive\Desktop\Week 6\FileMaker\bin\Debug\FileMaker.exe.config
+C:\Users\sanya\OneDrive\Desktop\Week 6\FileMaker\bin\Debug\FileMaker.exe
+C:\Users\sanya\OneDrive\Desktop\Week 6\FileMaker\bin\Debug\FileMaker.pdb
+C:\Users\sanya\OneDrive\Desktop\Week 6\FileMaker\bin\Debug\FileMaker.xml
+C:\Users\sanya\OneDrive\Desktop\Week 6\FileMaker\obj\Debug\FileMaker.vbproj.AssemblyReference.cache
+C:\Users\sanya\OneDrive\Desktop\Week 6\FileMaker\obj\Debug\FileMaker.Resources.resources
+C:\Users\sanya\OneDrive\Desktop\Week 6\FileMaker\obj\Debug\FileMaker.vbproj.GenerateResource.cache
+C:\Users\sanya\OneDrive\Desktop\Week 6\FileMaker\obj\Debug\FileMaker.vbproj.CoreCompileInputs.cache
+C:\Users\sanya\OneDrive\Desktop\Week 6\FileMaker\obj\Debug\FileMaker.exe
+C:\Users\sanya\OneDrive\Desktop\Week 6\FileMaker\obj\Debug\FileMaker.xml
+C:\Users\sanya\OneDrive\Desktop\Week 6\FileMaker\obj\Debug\FileMaker.pdb
